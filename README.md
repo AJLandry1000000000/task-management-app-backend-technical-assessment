@@ -40,7 +40,7 @@ You also discussed that one of the key risks would be that there may be huge vol
 
 
 ## Technologies used
-The technologies included in this entire project (including the [front-end](https://github.com/AJLandry1000000000/react-task-management), [back-end](https://github.com/AJLandry1000000000/task-management-app), containerisation, database, etc) are...
+The technologies included in this entire project (including the [front-end](https://github.com/AJLandry1000000000/task-management-app-frontend-technical-assessment), [back-end](https://github.com/AJLandry1000000000/task-management-app-backend-technical-assessment), containerisation, database, etc) are...
 - Backend: Typescript
 - Frontend: React + Vite 
 - Package manager: Node Package Manager (npm)
@@ -53,7 +53,7 @@ Note: To complete these steps you will need to install NodeJS, Typescript, Docke
 
 ### Clone the repository
 Run the following commands in your terminal to clone the code repository:  
-```git clone https://github.com/AJLandry1000000000/task-management-app.git```
+```git clone https://github.com/AJLandry1000000000/task-management-app-backend-technical-assessment.git```
 
 ### Install the packages
 Run the following commands to your root directory to install the node packages:  
